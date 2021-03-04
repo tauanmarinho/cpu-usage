@@ -8,7 +8,7 @@ parser = argparse.ArgumentParser()
 
 # Add long and short argument
 parser.add_argument("--width", "-w", help="set output width")
-parser.add_argument("--stamp", "-s", help="set output width")
+parser.add_argument("--stamp", "-s", help="set output stamp")
 
 # Read arguments from the command line
 args = parser.parse_args()
