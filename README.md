@@ -11,6 +11,6 @@
 
 # Run
 
-``bash
+    ```bash
     python monitor.py -w <width> -s <time_stamp>
     ```
